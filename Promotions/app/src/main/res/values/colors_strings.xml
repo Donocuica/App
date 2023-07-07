@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tienda"><b>Exclusiva en la tienda Maria</b></string>
+    <string name="tienda2"><b>Exclusiva en la tienda Maria</b></string>
+    <string name="tienda3"><b>Exclusiva en la tienda Maria</b></string>
+
+    <string name="texto"><b>Vizzio <font color="#FF7F00">+</font> <b>morochas 6 unid.</b>
+                   <font color="#FF7F00">+</font> <b>Pepsi Jumbo</b></string>
+
+
+    <string name="texto2"><b>Aprovecha el 10% de </b>
+                   <b>descuento</b></string>
+
+    <string name="texto3">  <b>Sixpack Pilcel de 35 ml.</b></string>
+
+
+
+    <string name="eletra"><strike> Antes s/28</strike></string>
+    <string name="letra"><strike> Antes s/173</strike></string>
+    <string name="numero"><strike> Antes s/22.90</strike></string>
+
+    <string name="ahora">      <b>Ahorra <font color="#FF5DCA">s/150</font></string>
+    <string name="rahora">      <b>Ahorra <font color="#83CC46">s/17.50</font></string>
+    <string name="jahora">      <b>Ahorra <font color="#FF7F00">s/8.90</font></string>
+
+</resources>
+
+
